@@ -1,16 +1,20 @@
-### Hi there 👋
+# Supun Dharmarathna
 
-<!--
-**supun/supun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi, I'm Supun. I am Software Architect at [FairGroup](https://www.fair.no/). 
+Previously I have worked at [CodeGen International](https://codegen.co.uk/) where I developed web based booking engines for travel industry.
+And also I am working as a lead developer at [Padivideocall](https://paidvideocall.com/) a Swedish based startup.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on: Studying for kubernetes certification.
+- 🌱 I’m currently learning: Redux Eco system
+- 📫 How to reach me: `supun921@gmail.com`
+- 😄 Pronouns: he/him
+
+## 🔧 Tools / Languages I Like To Use
+
+- [Java](https://www.java.com/)
+- [GoLang](https://go.dev/)
+- [Angular](https://angular.io/)
+- [React](https://reactjs.org/)
+- [TypeScript](https://www.typescriptlang.org/)
